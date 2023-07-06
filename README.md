@@ -7,7 +7,7 @@ A study of the effect of two cholesterol drugs, while we tested the presence of 
 cholesterol.txt--------------------->Contains the data provided for this assignment.
 data2.txt 
 
-Exercise1.R------------------------->The R files with the solutions of the two questions of the Assignment.
+Exercise1.R------------------------>The R files with the solutions of the two questions of the Assignment.
 Exercise1.R
 
-Report.pdf------------------------->Graphs Plots and some explainations of the answers
+Report.pdf------------------------>Graphs Plots and some explainations of the answers
